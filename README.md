@@ -9,10 +9,9 @@
 
 ## Dataset y notebook
 
-**Dataset:** [AI4I 2020 Predictive Maintenance Dataset](https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020).
-
 **Notebook:** [Mantenimiento predictivo AI4I](https://www.kaggle.com/code/ramif13/mantenimiento-predictivo-ai4i).
 
+**Dataset:** [AI4I 2020 Predictive Maintenance Dataset](https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020).
 
 ## El problema y por qué una cascada
 
